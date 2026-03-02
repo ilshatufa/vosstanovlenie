@@ -1,0 +1,17 @@
+# Summary
+
+- [Курс «…от воспалений к восстановлению…»](README.md)
+- [Старт: что вас ждет и как проходить](01-start/start-here.md)
+- [Самодиагностика и безопасность](02-diagnostics/diagnostics.md)
+- [Протокол: база и монодиета](03-protocol/protocol-core.md)
+- [Режим: приемы пищи, вода, кофе](03-protocol/daily-rhythm.md)
+- [Продукты: крупы, овощи, фрукты, бобовые](04-food/food-groups.md)
+- [Жиры, напитки и частные случаи](04-food/fats-drinks-special.md)
+- [Специи и добавки (справочник)](05-spices/spices-and-supplements.md)
+- [Аюрведа: качества, доши, типы](06-ayurveda/ayurveda-basics.md)
+- [Сезонность и питание по типам](06-ayurveda/seasonality-and-by-type.md)
+- [Поддержка и процедуры](07-support-troubleshooting/support-procedures.md)
+- [Состояния и побочные эффекты](07-support-troubleshooting/side-effects-symptoms.md)
+- [Иммунитет, энергия, процессы](07-support-troubleshooting/immunity-energy-processes.md)
+- [Эмоции, стресс, психосоматика](08-emotions/emotions-stress-psychosomatics.md)
+- [Особые случаи, рецепты, итоги](09-recipes-wrap-up/special-recipes-wrap-up.md)
